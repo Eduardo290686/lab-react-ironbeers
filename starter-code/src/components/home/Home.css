@@ -1,0 +1,26 @@
+.home-image-container{
+  width: 100%;
+}
+
+.home-image-container img {
+  width: 100%;
+}
+
+.info-container {
+  margin: 2rem 4rem 6rem 4rem;
+}
+
+.title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.paragraph {
+  font-size: 1.6rem;
+  line-height: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,40 @@
+.form-container{
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+.form-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container form label {
+  font-size: 1.6rem;
+  margin-bottom: 0.7rem;
+}
+
+.form-container form input {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  width: 30vw;
+  padding: 0.2rem;
+}
+
+.form-container form textarea {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  width: 30vw;
+  padding: 0.2rem;
+}
+
+.submit-button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+#submit-button {
+  width: 10rem;
+}

@@ -1,0 +1,30 @@
+.beer-container {
+  display: flex;
+  padding: 8rem 0rem;
+  border-bottom: 2px solid black;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  width: 15rem;
+}
+
+.individual-beer-image {
+  height: 20rem;
+}
+
+.individual-beer-title {
+  font-size: 2rem;
+  margin-bottom: 1.2rem;
+}
+
+.individual-beer-tagline {
+  font-size: 1.6rem;
+  line-height: 2rem;
+}
+
+.link-container {
+  text-decoration: none;
+  color: black;
+}

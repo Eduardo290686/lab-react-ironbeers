@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  background: rgb(214, 190, 56);
+  padding: 1rem;
+}
+
+.home-image{
+  width: 7rem;
+}

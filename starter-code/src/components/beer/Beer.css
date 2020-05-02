@@ -1,0 +1,38 @@
+.selected-beer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 7rem;
+}
+
+.img-container {
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+}
+
+.img-container img {
+  height: 20rem;
+}
+
+.selected-beer-information {
+  width: 60vw;
+  padding-top: 4rem;
+}
+
+.selected-beer-information h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.selected-beer-information h3 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 3rem;
+}
+
+.selected-beer-information p {
+  text-align: center;
+  font-size: 1.6rem;
+}

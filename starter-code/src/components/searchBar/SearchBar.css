@@ -1,0 +1,13 @@
+.SearchBar label {
+  font-size: 1.6rem;
+}
+
+.SearchBar input {
+ font-size: 1.6rem;
+ margin-left: 1rem;
+}
+
+.SearchBar button {
+  font-size: 1.6rem;
+  margin-left: 1rem;
+}
